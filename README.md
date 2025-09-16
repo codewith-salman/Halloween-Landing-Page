@@ -25,7 +25,7 @@
   <img src="halloween/assets/images/desktop.png" alt="Halloween Landing Page Screenshot" width="100%"/>
 </div>
 
-The **Halloween Landing Page** is a spooky-themed, creative, and responsive web design built using HTML and CSS.  
+The **Halloween Landing Page** is a spooky-themed, creative, and responsive web design built using HTML & CSS.  
 It is designed to capture the **Halloween spirit** while serving as a festive landing page for events, product promotions, or campaigns.  
 
 ### Key Features:
