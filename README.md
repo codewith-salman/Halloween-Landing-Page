@@ -81,7 +81,6 @@ Ideal for:
 - Clean and structured page sections
 - Engaging seasonal visuals
 - Mobile-friendly design
-- Smooth and polished user experience
 - Easy to customize for events and campaigns
 
 ---
