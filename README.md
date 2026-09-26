@@ -71,8 +71,6 @@ Ideal for:
 - 🎨 Creative landing page concepts
 - 💻 Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -86,8 +84,6 @@ Ideal for:
 - Smooth and polished user experience
 - Easy to customize for events and campaigns
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -96,8 +92,6 @@ This project is built using:
 
 - **HTML5**
 - **CSS3**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
