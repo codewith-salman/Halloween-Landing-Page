@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="halloween/assets/images/logo.png" alt="Halloween Landing Page Logo" width="120"/>
+<img src="halloween/assets/images/logo.svg" alt="Halloween Landing Page Logo" width="120"/>
 
 <br />
 <br />
